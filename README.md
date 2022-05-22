@@ -9,6 +9,7 @@
 
 ---
 ### Hi there 👋
+I'm Krister and live in Tartu Estonia.
 
 ### :man_technologist:About me:
 
@@ -25,5 +26,11 @@
 - :e-mail:<a href="https://tldr.tech/">TLDR</a> - byte sized news for busy techies
 - :e-mail:<a href="https://jamesclear.com/3-2-1">The 3-2-1 Newsletter</a> - James Clear newsletter. 3 ideas 2 quotes 1 question
 - :newspaper:<a href="https://hckrnews.com/">hckr news</a> - a hacker news reader
+---
+
+### :books:Last 5 Books I've Read
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristerL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
