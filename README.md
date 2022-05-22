@@ -30,6 +30,10 @@ I'm Krister and live in Tartu Estonia.
 
 ### :books:Last 5 Books I've Read
 <!-- GOODREADS-LIST:START -->
+- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3410103912?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
+- [Market Mind Games: Profiting from the New Psychology of Risk, Uncertainty, and the Convergence of Trading with Investing](https://www.goodreads.com/review/show/3283752847?utm_medium=api&utm_source=rss) by Denise Shull (⭐️3.71)
+- [The Intelligent Investor](https://www.goodreads.com/review/show/2492281957?utm_medium=api&utm_source=rss) by Benjamin Graham (⭐️4.23)
+- [Homo Deus: A History of Tomorrow](https://www.goodreads.com/review/show/3147296465?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.22)
 <!-- GOODREADS-LIST:END -->
 
 ---
