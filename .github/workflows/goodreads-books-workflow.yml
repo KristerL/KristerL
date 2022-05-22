@@ -14,4 +14,4 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "85342033"
-          shelf: "currently-reading"
+          shelf: "read"
