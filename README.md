@@ -30,10 +30,16 @@ I'm Krister and live in Tartu Estonia.
 
 ### :books:Last 5 Books I've Read
 <!-- GOODREADS-LIST:START -->
-- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/3410103912?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
-- [Market Mind Games: Profiting from the New Psychology of Risk, Uncertainty, and the Convergence of Trading with Investing](https://www.goodreads.com/review/show/3283752847?utm_medium=api&utm_source=rss) by Denise Shull (⭐️3.71)
-- [The Intelligent Investor](https://www.goodreads.com/review/show/2492281957?utm_medium=api&utm_source=rss) by Benjamin Graham (⭐️4.23)
-- [Homo Deus: A History of Tomorrow](https://www.goodreads.com/review/show/3147296465?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.22)
+- [Warbreaker (Warbreaker, #1)](https://www.goodreads.com/review/show/2955511533?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.27)
+- [The 21 Success Secrets of Self-Made Millionaires: How to Achieve Financial Independence Faster and Easier Than You Ever Thought Possible](https://www.goodreads.com/review/show/2955510692?utm_medium=api&utm_source=rss) by Brian Tracy (⭐️4.06)
+- [Rich Dad's Cashflow Quadrant: Employee, Self-Employed, Business Owner, or Investor...Which Is the Best Quadrant for You?](https://www.goodreads.com/review/show/2955509431?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki (⭐️3.94)
+- [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/4332949449?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.59)
+- [Firefight (The Reckoners, #2)](https://www.goodreads.com/review/show/3198104205?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.25)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3180024704?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
+- [Meditations](https://www.goodreads.com/review/show/2492562669?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.24)
+- [Words of Radiance (The Stormlight Archive, #2)](https://www.goodreads.com/review/show/3719926149?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.74)
+- [Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.goodreads.com/review/show/4660071583?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.3)
+- [The Unicorn Project](https://www.goodreads.com/review/show/3828336209?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 ---
