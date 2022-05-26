@@ -30,11 +30,11 @@ I'm Krister and live in Tartu Estonia.
 
 ### :books:Last 5 Books I've Read
 <!-- GOODREADS-READ-LIST:START -->
-- [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/4332949449?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.59)
-- [Firefight (The Reckoners, #2)](https://www.goodreads.com/review/show/3198104205?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.26)
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3180024704?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
-- [Words of Radiance (The Stormlight Archive, #2)](https://www.goodreads.com/review/show/3719926149?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.74)
-- [The Unicorn Project](https://www.goodreads.com/review/show/3828336209?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.06)
+- [Warbreaker (Warbreaker, #1)](https://www.goodreads.com/review/show/2955511533?utm_medium=api&utm_source=rss) by Brandon Sanderson
+- [The 21 Success Secrets of Self-Made Millionaires: How to Achieve Financial Independence Faster and Easier Than You Ever Thought Possible](https://www.goodreads.com/review/show/2955510692?utm_medium=api&utm_source=rss) by Brian Tracy
+- [Rich Dad's Cashflow Quadrant: Employee, Self-Employed, Business Owner, or Investor...Which Is the Best Quadrant for You?](https://www.goodreads.com/review/show/2955509431?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki
+- [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/4332949449?utm_medium=api&utm_source=rss) by Brandon Sanderson
+- [Firefight (The Reckoners, #2)](https://www.goodreads.com/review/show/3198104205?utm_medium=api&utm_source=rss) by Brandon Sanderson
 <!-- GOODREADS-READ-LIST:END -->
 
 ---
