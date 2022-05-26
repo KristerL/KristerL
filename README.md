@@ -29,13 +29,13 @@ I'm Krister and live in Tartu Estonia.
 ---
 
 ### :books:Last 5 Books I've Read
-<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-READ-LIST:START -->
 - [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/4332949449?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.59)
 - [Firefight (The Reckoners, #2)](https://www.goodreads.com/review/show/3198104205?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.26)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3180024704?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 - [Words of Radiance (The Stormlight Archive, #2)](https://www.goodreads.com/review/show/3719926149?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.74)
 - [The Unicorn Project](https://www.goodreads.com/review/show/3828336209?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.06)
-<!-- GOODREADS-LIST:END -->
+<!-- GOODREADS-READ-LIST:END -->
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristerL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
