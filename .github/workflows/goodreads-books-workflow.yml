@@ -18,3 +18,4 @@ jobs:
           comment_tag_name: "GOODREADS-READ-LIST"
           max_books_count: "5"
           template: "- [$title]($url) by $author"
+          sort_by_fields: ">user_date_added"
