@@ -9,17 +9,17 @@
 
 ---
 ### Hi there 👋
-I'm Krister and live in Tartu Estonia.
+I'm Krister and I live in Tartu, Estonia.
 
 ### :man_technologist:About me:
 
-- :rocket: Frontend developer @ CyberCommand
+- :rocket: Front end developer @ CyberCommand
 - :mortar_board: BSc from University of Tartu
-- :house: Also check out my <a href="https://kristerlooga.com">website</a>
+- :house: Also, check out my <a href="https://kristerlooga.com">website</a>
 
 ---
 
-### :computer:What i follow:
+### :computer:What I follow:
 - :e-mail:<a href="https://programmingdigest.net/">Programming digest</a> - weekly news for busy techies
 - :e-mail:<a href="https://thehustle.co/">The Hustle</a> - get smarter on business and tech
 - :e-mail:<a href="https://www.pointer.io/">Pointer</a> - a reading club for software developers
