@@ -26,16 +26,6 @@ I'm Krister and I live in Tartu, Estonia.
 - :e-mail:<a href="https://tldr.tech/">TLDR</a> - byte sized news for busy techies
 - :e-mail:<a href="https://jamesclear.com/3-2-1">The 3-2-1 Newsletter</a> - James Clear newsletter. 3 ideas 2 quotes 1 question
 - :newspaper:<a href="https://hckrnews.com/">hckr news</a> - a hacker news reader
----
-
-### :books:Last 5 Books I've Read
-<!-- GOODREADS-READ-LIST:START -->
-- [Warbreaker (Warbreaker, #1)](https://www.goodreads.com/review/show/2955511533?utm_medium=api&utm_source=rss) by Brandon Sanderson
-- [The 21 Success Secrets of Self-Made Millionaires: How to Achieve Financial Independence Faster and Easier Than You Ever Thought Possible](https://www.goodreads.com/review/show/2955510692?utm_medium=api&utm_source=rss) by Brian Tracy
-- [Rich Dad's Cashflow Quadrant: Employee, Self-Employed, Business Owner, or Investor...Which Is the Best Quadrant for You?](https://www.goodreads.com/review/show/2955509431?utm_medium=api&utm_source=rss) by Robert T. Kiyosaki
-- [Rhythm of War (The Stormlight Archive, #4)](https://www.goodreads.com/review/show/4332949449?utm_medium=api&utm_source=rss) by Brandon Sanderson
-- [Firefight (The Reckoners, #2)](https://www.goodreads.com/review/show/3198104205?utm_medium=api&utm_source=rss) by Brandon Sanderson
-<!-- GOODREADS-READ-LIST:END -->
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristerL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
