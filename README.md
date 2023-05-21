@@ -13,7 +13,7 @@ I'm Krister and I live in Tartu, Estonia.
 
 ### :man_technologist:About me:
 
-- :rocket: Front end developer @ Veriff
+- :rocket: Front end developer @ Bolt
 - :mortar_board: BSc from University of Tartu
 - :house: Also, check out my <a href="https://kristerlooga.com">website</a>
 
